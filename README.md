@@ -1,6 +1,5 @@
 ![Profile Picture](Busi.png)
 # Hi there, I'm Busisiwe Nkambule 👋
-<img src="Busi.png" width="200"/>
 
 ## AWS Learning Portfolio
 
