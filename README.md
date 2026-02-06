@@ -6,7 +6,7 @@ Welcome to my AWS re/Start journey portfolio. This repository documents my learn
 
 ---
 
-##  About Me (AWS Focus)
+##  About Me 
 
 I am an aspiring cloud professional currently building hands-on experience in AWS cloud technologies through the AWS re/Start program. I am passionate about developing practical cloud skills and working toward a career in cloud computing.
 
