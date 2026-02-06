@@ -1,4 +1,6 @@
 # AWS re/Start Portfolio
+## Overview
+This repository serves as a learning portfolio created during my participation in the AWS re/Start program. It is intended to document my progress as I build foundational skills in cloud computing and Amazon Web Services (AWS). The content in this repository will grow over time as new concepts, exercises, and projects are introduced.
 
 ## About This Repository
 This repository is a personal learning portfolio created as part of the AWS re/Start program. It will contain projects, exercises, and documentation developed while learning cloud computing concepts using Amazon Web Services (AWS).
