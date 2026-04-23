@@ -16,3 +16,7 @@ This module focuses on building and deploying machine learning solutions using A
 ##  What I Learned
 - How to build ML models
 - How to deploy solutions in the cloud
+
+## Certificate
+
+[Developing Machine.pdf](https://github.com/user-attachments/files/27007107/Developing.Machine.pdf)
