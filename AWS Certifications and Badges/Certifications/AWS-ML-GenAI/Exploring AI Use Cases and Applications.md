@@ -11,3 +11,5 @@ Understanding how AI is applied across industries.
 ##  What I Learned
 - Real-world AI applications
 - Business value of AI
+
+## Certification
