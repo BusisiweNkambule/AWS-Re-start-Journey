@@ -19,4 +19,5 @@ This module focuses on building and deploying machine learning solutions using A
 
 ## Certificate
 
-[Developing Machine.pdf](https://github.com/user-attachments/files/27007107/Developing.Machine.pdf)
+<img width="1650" height="1275" alt="Developing Machine_page-0001" src="https://github.com/user-attachments/assets/e3aa3cbe-6f0f-4293-bf58-6d7f9a88be99" />
+
