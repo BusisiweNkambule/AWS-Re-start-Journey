@@ -34,4 +34,6 @@ AWS Cloud Quest made learning cloud computing interactive and engaging. It helpe
 
 ---
 
-## 📜 Certificate
+##  Certificate
+
+##  Badge
