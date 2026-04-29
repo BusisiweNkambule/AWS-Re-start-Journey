@@ -13,7 +13,9 @@ Create intent-based responses for user interaction
 Design a quiz-based chatbot experience
 Implement branching logic for different user answers
 Demonstrate chatbot functionality through a live interaction
+
 ## How the Chatbot Works
+
 ### Part 1: Basic Chatbot
 The chatbot was first designed with a simple intent to answer questions about Amazon S3.
 
@@ -26,6 +28,7 @@ Example Utterances:
 Response:
 
 Amazon S3 is a cloud storage service that allows users to store and retrieve data from anywhere.
+
 ### Part 2: Interactive Quiz (S3ndHelp Feature)
 The chatbot was extended into a quiz-based learning assistant.
 
@@ -42,6 +45,7 @@ Multiple-choice answers:
 A) Simple Storage Service
 B) Secure Server Storage
 C) Smart Storage System
+
 Chatbot responses:
 
 ✅ Correct → Confirms answer and moves forward
@@ -57,18 +61,21 @@ The chatbot provides feedback and guides the user through the quiz.
 ## AWS Services Used
 Amazon Lex – Used to build and manage the chatbot
 Natural Language Processing (NLP) for understanding user input
+
 ## Technical Implementation
 Created intents for both information retrieval and quiz interaction
 Defined utterances to simulate real user input
 Designed responses for both correct and incorrect answers
 Implemented branching logic to guide conversation flow
 Tested chatbot using the AWS Lex test interface
+
 ## Key Learnings
 How chatbots use intents and utterances to understand user input
 How to design conversational flows
 Implementing branching logic for interactive experiences
 Importance of user-friendly responses
 How AI can be used in education and knowledge testing
+
 ## Demo & Screenshots
 Screenshots of the chatbot and quiz interaction are included in the screenshots folder.
 
@@ -78,6 +85,7 @@ Bot creation in Amazon Lex
 Intent and utterance configuration
 Quiz interaction flow
 Correct vs incorrect responses
+
 ✅ Conclusion
 The S3ndHelp chatbot demonstrates how AWS Lex can be used to build interactive, educational AI tools.
 It highlights my ability to design conversational systems and apply cloud-based AI services to real-world use cases.
