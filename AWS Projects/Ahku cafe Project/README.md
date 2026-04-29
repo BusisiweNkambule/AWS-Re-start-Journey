@@ -200,3 +200,16 @@ Save changes.
 ## Conclusion
 
 Hosting the AHKU Cafe website using Amazon S3 provides a reliable and scalable cloud hosting solution. This project demonstrates how AWS cloud services can support small business digital presence without requiring server infrastructure management.
+
+## Document
+<img width="1240" height="1755" alt="AHKU Cafe – Amazon S3 Static Website Hosting Guide (1)_page-0001" src="https://github.com/user-attachments/assets/41aafdfc-8724-4ced-8d99-8d923f19d22e" />
+<img width="1240" height="1755" alt="AHKU Cafe – Amazon S3 Static Website Hosting Guide (1)_page-0002" src="https://github.com/user-attachments/assets/921765f8-7e4d-4401-9acb-e7a3ef5984f7" />
+<img width="1240" height="1755" alt="AHKU Cafe – Amazon S3 Static Website Hosting Guide (1)_page-0003" src="https://github.com/user-attachments/assets/7f48bda9-14ee-4bf5-94fb-c4a6faa56983" />
+<img width="1240" height="1755" alt="AHKU Cafe – Amazon S3 Static Website Hosting Guide (1)_page-0004" src="https://github.com/user-attachments/assets/4aa95628-d646-467f-b197-cbece52c1a31" />
+<img width="1240" height="1755" alt="AHKU Cafe – Amazon S3 Static Website Hosting Guide (1)_page-0005" src="https://github.com/user-attachments/assets/9022fa91-137c-41b5-9b9e-6c7b71197255" />
+<img width="1240" height="1755" alt="AHKU Cafe – Amazon S3 Static Website Hosting Guide (1)_page-0006" src="https://github.com/user-attachments/assets/d20643ae-4059-4fdf-9707-18a8964b5218" />
+
+
+
+
+
