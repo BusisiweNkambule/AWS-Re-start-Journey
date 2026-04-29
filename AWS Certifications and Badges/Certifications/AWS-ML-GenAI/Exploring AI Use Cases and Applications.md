@@ -13,3 +13,4 @@ Understanding how AI is applied across industries.
 - Business value of AI
 
 ## Certification
+<img width="1650" height="1275" alt="AI" src="https://github.com/user-attachments/assets/6aa2b0b6-8c66-4ac9-af2e-edb9a8b4e310" />
