@@ -25,8 +25,7 @@ To design a secure and scalable AWS architecture solution.
 
 ## Architecture Design
 
-![Architecture Diagram](diagram.jpg)
-
+<img width="1536" height="1024" alt="diagram (1)" src="https://github.com/user-attachments/assets/710093c4-4af7-4062-affe-ea1ae7fd35ee" />
 ---
 
 # ☕ AHKU Cafe – Amazon S3 Static Website Hosting Project
