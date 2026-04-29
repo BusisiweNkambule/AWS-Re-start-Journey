@@ -4,6 +4,11 @@ This folder contains certificates and badges earned during my AWS learning journ
 
 ## AWS Skill Builder Certifications
 
+### Cloud Quest
+### Cloud Computing
+### Databases in Practice
+### File systems in the cloud
 ### Networking Concepts
+### Security Concepts
 
 
