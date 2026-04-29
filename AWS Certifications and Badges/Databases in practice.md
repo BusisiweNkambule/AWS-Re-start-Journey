@@ -34,4 +34,12 @@ This course strengthened my understanding of how databases function behind the s
 
 ---
 
+##  Diagram
+<img width="2400" height="1328" alt="DatabasesinPractice" src="https://github.com/user-attachments/assets/9d73e04d-4685-431f-8a1d-8a83435bea4d" />
+
+
+---
+
 ##  Certificate
+<img width="1650" height="1275" alt="Unknown-2_page-0001" src="https://github.com/user-attachments/assets/f0ba4a19-85de-4378-a1f0-aaa7ee268338" />
+
