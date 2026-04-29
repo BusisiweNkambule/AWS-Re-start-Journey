@@ -1,3 +1,4 @@
+
 #  AWS Cloud Quest
 
 ##  Overview
@@ -35,5 +36,8 @@ AWS Cloud Quest made learning cloud computing interactive and engaging. It helpe
 ---
 
 ##  Certificate
+<img width="1650" height="1275" alt="Cloud Quest" src="https://github.com/user-attachments/assets/a3d664f5-cded-4d90-b6c3-ea3087f108d3" />
 
 ##  Badge
+<img width="601" height="601" alt="aws-cloud-quest-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/eff61502-247b-4a99-bca7-563fc1e9e384" />
+
