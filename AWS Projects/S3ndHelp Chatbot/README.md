@@ -48,7 +48,7 @@ C) Smart Storage System
 
 Chatbot responses:
 
-✅ Correct → Confirms answer and moves forward
+✅ Correct → Confirms answer and moves forward 
 ❌ Incorrect → Provides correct answer and continues
 Follow-up question:
 
